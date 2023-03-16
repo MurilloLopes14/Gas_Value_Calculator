@@ -6,4 +6,4 @@ An Simple React Native Expo CLI app that calculates whitch it's better, Gas or A
 
 # Project Image
 
-https://github.com/MurilloLopes14/Gas_Value_Calculator/blob/main/src/assets/FrameWire.jpeg
+![alt text](https://github.com/MurilloLopes14/Gas_Value_Calculator/blob/main/src/assets/FrameWire.jpeg)
